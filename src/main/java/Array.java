@@ -11,6 +11,7 @@ public class Array {
         a[1] = 2.4;
 
 
+
         //System.out.printf("%s, %.1f", a[0], a[1]);
 
 //        String[] array = {"one", "two", "three"};
