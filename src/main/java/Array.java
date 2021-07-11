@@ -9,6 +9,7 @@ public class Array {
         double[] a = new double[2];
         a[0] = 1;
         a[1] = 2.4;
+        //comment
         //System.out.printf("%s, %.1f", a[0], a[1]);
 
 //        String[] array = {"one", "two", "three"};
